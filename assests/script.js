@@ -1,3 +1,4 @@
+<script>
 let namadepan = prompt ('Nama Anda?');
 let manusiaa = prompt ('cowo/cewe?');
 let userr = {
@@ -13,3 +14,4 @@ alert('Halo'+ ' '+ userr.namauser.pertama + ' ' + 'cantik' + '!!!' );
 }else{
 alert('Halo'+ ' '+ userr.namauser.pertama + ' ' + 'bencong' + '!!!' );
 }
+</script>
