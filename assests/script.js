@@ -11,5 +11,5 @@ alert('Halo'+ ' ' + userr.namauser.pertama + ' ' + 'jamet' + '!!!' );
 }else if(userr.manusiaa === 'cewe'){
 alert('Halo'+ ' '+ userr.namauser.pertama + ' ' + 'cantik' + '!!!' );
 }else{
-alert('Halo'+ ' '+ userr.namauser.pertama + ' ' + 'bencong' + '!!!' );
+alert('Halo'+ ' '+ userr.namauser.pertama + ' ' + 'Mohon Di Isi Gender Anda' + '!!!' );
 }
