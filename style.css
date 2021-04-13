@@ -1,0 +1,27 @@
+.jumbotron{
+    padding-top: 5rem;
+    background-color: rgb(126, 178, 201);
+}  
+.text{
+    font-family: monospace, sans-serif;
+    font-weight: bold;
+}
+.text2{
+    text-align: justify;
+}
+.text3{
+    background-color: #a2d9ff;
+}
+.card-text{
+    font-family: monospace, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
+a:visited {
+        color: white;
+      }
+.footer{
+    background-color: #a2d9ff;
+    text-align: center;
+}
