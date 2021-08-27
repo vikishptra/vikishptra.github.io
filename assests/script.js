@@ -7,7 +7,7 @@ let userr = {
   manusiaa : manusiaa,
 }
 if(userr.manusiaa === 'cowo'){
-alert('Halo'+ ' ' + userr.namauser.pertama + ' ' + 'jamet' + '!!!' );
+alert('Halo'+ ' ' + userr.namauser.pertama + ' ' + 'bro' + '!!!' );
 }else if(userr.manusiaa === 'cewe'){
 alert('Halo'+ ' '+ userr.namauser.pertama + ' ' + 'cantik' + '!!!' );
 }else{
